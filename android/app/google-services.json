@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390325806963",
+    "firebase_url": "https://pozoss.firebaseio.com",
+    "project_id": "pozoss",
+    "storage_bucket": "pozoss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390325806963:android:11254635bcd3ef29f08706",
+        "android_client_info": {
+          "package_name": "xyz.pozos.pozoss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390325806963-ocdt2ijcotiebcmnlc4cevaev7hkca29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.pozos.pozoss",
+            "certificate_hash": "fd510f47c577b7910f534969b21decf4f599241f"
+          }
+        },
+        {
+          "client_id": "390325806963-dteo5e5q8sb3hciculco48a2fnusfdu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAngRWu3e85_N_O5xtyppsKqssVvZ9DpSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390325806963-dteo5e5q8sb3hciculco48a2fnusfdu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
